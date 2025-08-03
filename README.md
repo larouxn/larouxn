@@ -8,4 +8,4 @@ I'm a developer from the States primarily working on Ruby and Rails libraries an
 
 ### Where I've lived・住んだ事のある場所
 
-🇺🇸 → 2015 🇨🇦 → 2018 🇯🇵 → 2025 🇺🇸 → 🤔
+🇺🇸 → 2015 🇨🇦 → 2018 🇯🇵 → 2025 🇺🇸
