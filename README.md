@@ -1,6 +1,6 @@
 ### Hey, I'm Nicholas 👋🧑‍💻
 
-I'm a developer from the States living in Amsterdam primarily working on/with Ruby and Rails. Am particularly passionate about open source (FLOSS), keeping things up-to-date and secure, and making things feel natural for users via internationalization (i18n) and localization (l10n). Let's build something amazing together! Best regards. 💚✨🔒🌍
+I'm a developer from the States living in Amsterdam primarily working on/with Ruby and Rails. Am particularly passionate about open source (FLOSS), keeping things up-to-date and secure, and making things feel natural for users via internationalization (i18n) and localization (l10n). Let's build something amazing together! 💚✨🔒🌍
 
 ### ハロー、ニコラスと申します 👋🧑‍💻
 
